@@ -1,0 +1,7 @@
+Exeplo para o criar show:
+
+{
+  "nome":"Oruam",
+  "data_show":"2025-12-19",
+  "descricao":"O show do Oruam acontecera em 12 do 09 de 2025 será um dos maiores show do Brasil"
+}
