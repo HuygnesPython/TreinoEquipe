@@ -1,5 +1,6 @@
-#_______________________________
-#Início                        |
+#Início
+#______________________________
+#                              |
 import mysql.connector as my#  |
 from pydantic import BaseModel#|
 from fastapi import FastAPI#   |
@@ -12,7 +13,8 @@ def conectar_banco():#         |
     )#                         |
     return conexao#            |
 app = FastAPI()#               |
-#------------------------------|
+#                              |
+#-------------------------------
 
 # Ver shows
 @app.get('/VerShows')
